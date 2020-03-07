@@ -277,6 +277,12 @@ img {
     .overtext-inner h2{
         font-size: 3.5rem;
     }
+    .overtext-inner h3{
+        font-size: 1.9rem;
+    }
+    .overtext-inner p{
+        font-size: 1rem;
+    }
     .gal .gallery{
         grid-template-columns: repeat(2,1fr);
     }
